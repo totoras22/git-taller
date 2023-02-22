@@ -1,3 +1,5 @@
 Titulo del archivo
 
 Este es mi primer parrafo de ejemplo
+
+Este es mi segundo parrafo
